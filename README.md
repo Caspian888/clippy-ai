@@ -130,3 +130,4 @@ Thank you AEC Tech 2023, CORE Studio, Thornton Tomasetti, and the machines for m
 [license-url]: https://github.com/rfeathers068/clippy-ai/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
+Bardiya Shokri
