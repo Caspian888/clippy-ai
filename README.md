@@ -88,6 +88,8 @@ You will need the following libraries and/or software installed before getting t
 3. pip install -r requirements.txt
 4. python main.py
 
+Bardiya Shokri (Caspian88)
+
 <!-- ROADMAP -->
 ## Short-Term Roadmap
 
@@ -130,4 +132,4 @@ Thank you AEC Tech 2023, CORE Studio, Thornton Tomasetti, and the machines for m
 [license-url]: https://github.com/rfeathers068/clippy-ai/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
-Bardiya Shokri (Caspian88)
+
